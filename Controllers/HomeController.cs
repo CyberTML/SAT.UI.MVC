@@ -38,5 +38,10 @@ namespace SAT.UI.MVC.Controllers
             return View();
         }
 
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
+
     }
 }
